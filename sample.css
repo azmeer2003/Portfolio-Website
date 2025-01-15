@@ -1,0 +1,28 @@
+body {
+    background-color: #f4f4f9; /* Correct lowercase property name */
+    color: #333; /* Correct lowercase property name */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center; /* Correct lowercase property name */
+    font-size: 2em;
+    color: #4caf50; /* Correct lowercase property name */
+}
+
+p {
+    line-height: 1.6;
+    font-size: 1em;
+    color: #666; /* Correct lowercase property name */
+}
+
+a {
+    text-decoration: none;
+    color: #007bff; /* Correct lowercase property name */
+}
+
+a:hover {
+    color: #0056b3; /* Correct lowercase property name */
+}
